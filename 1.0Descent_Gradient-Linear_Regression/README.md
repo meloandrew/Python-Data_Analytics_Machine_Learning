@@ -34,7 +34,7 @@ The Descent Gradient is great when the parameters can not be analytically obtain
 
 The mathematic Functions may have "hills and valleys": regions where they assume maximum and minimum values. For example, back at school, while studying free-fall motion problems, the object movement Function assumes a parabole form (in major problems), where its maximum points represent the moment where the variation between space and time assumes zero value or the kinetic energy is equal to the gravitation potential energy (not considering other involved elements in this case), or the object movement velocity is equal to zero.
 
- <img src="hhttps://github.com/meloandrew/Python-Data_Analytics_Machine_Learning/blob/master/1.0Descent_Gradient-Linear_Regression/images/func1.png"
+ <img src="https://github.com/meloandrew/Python-Data_Analytics_Machine_Learning/blob/master/1.0Descent_Gradient-Linear_Regression/images/func1.png"
       alt = "Descent_Gradient_func1"
       style="width:600px;height:300px;"/>
 
