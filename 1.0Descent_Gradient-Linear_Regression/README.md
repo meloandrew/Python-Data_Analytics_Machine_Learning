@@ -114,8 +114,7 @@ while previous_step_size > precision and iters < max)iters:
   # Store x current value (weight):
   prev_x = cur_x
 
-  # Applying the Descent Gradient
-  #:
+  # Applying the Descent Gradient:
   cur_x = cur_x - rate * gf(prev_x)
 
   # Increment iteration number:
