@@ -6,6 +6,13 @@
   </p>
 </div>
 
+<div align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/python-v3.7.7-blue"/>
+  </a>
+</div>
+
+
 # Linear Regression - Descent Gradient
 
 ## Understant Descent Gradient by a mathematic perspective
